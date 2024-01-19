@@ -1,7 +1,6 @@
 ### Olá, meu nome é Alexandre Soares. Estou me dedicando ao máximo na programação e buscando uma oportunidade. Minha história começa aos 12 anos de idade, programando meu primeiro bloco de código (no caso, um vírus em .bat para formatar o sistema, caso fosse executado :D).
 
-Skills: Java (Spring Boot), Python (Django Rest Framework, PostgreSQL, Git, Conventional Commits, GitKraken, HTML, CSS, Docker, Postman e Kali Linux.
-
+<div style="display: inline_block"><br>
   <img align="center" alt="m1kro-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="m1kro-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="m1kro-gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
