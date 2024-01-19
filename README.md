@@ -1,4 +1,9 @@
 ### Olá, meu nome é Alexandre Soares. Estou me dedicando ao máximo na programação e buscando uma oportunidade. Minha história começa aos 12 anos de idade, programando meu primeiro bloco de código (no caso, um vírus em .bat para formatar o sistema, caso fosse executado :D).
+
+Inglês - Proficiência Avançada
+Para avaliação da minha habilidade na língua inglesa, convido-o a acessar o link abaixo.
+https://www.dropbox.com/scl/fi/zbnfqj8jmv1bxx0zrrhbt/Alexandre-Apresenta-o-Ingls.mp3?rlkey=i0902r7tojqoiqtboo0wcw93u&dl=0
+
 <div style="display: inline_block"><br>
   <img align="center" alt="m1kro-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="m1kro-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
