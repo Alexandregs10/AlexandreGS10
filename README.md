@@ -1,4 +1,4 @@
-## Olá, meu nome é Alexandre Soares. Estou me dedicando ao máximo na programação e buscando uma oportunidade. Minha história começa aos 12 anos de idade, programando meu primeiro bloco de código (no caso, um vírus em .bat para formatar o sistema, caso fosse executado :D).
+## Olá, meu nome é Alexandre Soares. Estou me dedicando ao máximo na programação e buscando uma oportunidade. Minha história começa aos 12 anos de idade, programando meu primeiro bloco de código (no caso, um arquivo .bat para formatar o sistema, caso fosse executado :D).
 
 ### Inglês - Proficiência Avançada
 Para avaliação da minha habilidade na língua inglesa, convido-o a acessar o link abaixo.
