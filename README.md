@@ -7,7 +7,6 @@ https://www.dropbox.com/scl/fi/zbnfqj8jmv1bxx0zrrhbt/Alexandre-Apresenta-o-Ingl
 <div style="display: inline_block"><br>
   <img align="center" alt="m1kro-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="m1kro-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="m1kro-gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
   <img align="center" alt="m1kro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="m1kro-gitlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="m1kro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
